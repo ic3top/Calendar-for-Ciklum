@@ -1,0 +1,15 @@
+/* The Modal (background) */
+.modal {
+    overflow: auto;
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.4);
+
+    &-content {
+        background-color: #fefefe;
+        margin: 0 auto;
+        margin-top: 10%;
+        padding: 60px 50px 40px;
+        border: 1px solid #888;
+        width: 50%;
+    }
+}
