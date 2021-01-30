@@ -52,4 +52,4 @@ Take a look at the [GitHub Pages](https://ic3top.github.io/Calendar-for-Ciklum/d
 Project is: _in progress_ (require some improvements)
 
 ## Inspiration
-Created to pass entry exams of Ciklum JavaScript Internship program opening 
+Created to pass entry exams of Ciklum JavaScript Internship program.
