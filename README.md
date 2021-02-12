@@ -45,11 +45,8 @@ Take a look at the [GitHub Pages](https://ic3top.github.io/Calendar-for-Ciklum/d
 ###### To-do list:
 * Custom confirmation window on deleting (instead confirm function)
 * Dark theme
-* Drag and drop technique on “Calendar” view
 * Event description on hover
 
 ## Status
-Project is: _in progress_ (require some improvements)
+Project is: _in progress_ (require some minor improvements)
 
-## Inspiration
-Created to pass entry exams of Ciklum JavaScript Internship program.
