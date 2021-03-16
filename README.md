@@ -1,13 +1,13 @@
 # Calendar
 
 > A simple meeting planning calendar for a meeting room.
+> Take a look at the [GitHub Pages](https://ic3top.github.io/Calendar-for-Ciklum/dist/)
 
 
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
-* [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
 * [Inspiration](#inspiration)
@@ -27,11 +27,9 @@
 ## Technologies
 * Bootstrap v5.0.0-beta1 (https://getbootstrap.com/)
 * Pure JavaScript (ES6, ES next) with Babel transpiler 
-* Scss
+* SCSS
 * Webpack as a module bundler
 
-## Setup
-Take a look at the [GitHub Pages](https://ic3top.github.io/Calendar-for-Ciklum/dist/)
 
 ## Features
 ###### List of features ready and TODOs for future development
