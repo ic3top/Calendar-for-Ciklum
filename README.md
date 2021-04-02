@@ -1,6 +1,5 @@
-# Calendar
-
-> A simple meeting planning calendar for a meeting room.
+# Meeting calendar
+> A meeting calendar for a team with several members for one week planning.
 
 
 ## Table of contents
@@ -31,10 +30,10 @@
 * Webpack as a module bundler
 
 ## Setup
-Take a look at the [GitHub Pages](https://ic3top.github.io/Calendar-for-Ciklum/dist/)
+Take a look at the [DEMO](https://ic3top.github.io/Calendar-for-Ciklum/dist/)
 
 ## Features
-###### List of features ready and TODOs for future development
+###### List of features ready 
 * Display meetings planned
 * Filter meetings for a particular team member _(the list of team member is hardcoded)_
 * Toast messages (appear on errors and success)
@@ -42,14 +41,8 @@ Take a look at the [GitHub Pages](https://ic3top.github.io/Calendar-for-Ciklum/d
 * Delete meetings
 * Meetings are saved in local storage
 
-###### To-do list:
-* Custom confirmation window on deleting (instead confirm function)
-* Dark theme
-* Drag and drop technique on “Calendar” view
-* Event description on hover
-
 ## Status
-Project is: _in progress_ (require some improvements)
+Project is: _finished_
 
 ## Inspiration
 Created to pass entry exams of Ciklum JavaScript Internship program.
