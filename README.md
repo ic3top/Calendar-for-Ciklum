@@ -1,8 +1,6 @@
 # Meeting calendar
 > A meeting calendar for a team with several members for one week planning.
 
-
-
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
@@ -13,6 +11,7 @@
 
 ## General info
 To my mind it`s a cool project for a pure JS. I learnt a lot creating it and it seems like my webpack config needs some improvements:)
+This tiny project can have much more interesting features like dark-theme or drag-n-drop. Well, maybe in future...
 
 ## Screenshots
 ![Example screenshot1](./src/img/screenshot_view.png)
@@ -40,11 +39,4 @@ Take a look at the [DEMO](https://ic3top.github.io/Calendar-for-Ciklum/dist/)
 ## Status
 Project is: _finished_
 
-###### To-do list:
-* Custom confirmation window on deleting (instead confirm function)
-* Dark theme
-* Event description on hover
-
-## Status
-Project is: _in progress_ (require some minor improvements)
 
