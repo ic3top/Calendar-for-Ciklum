@@ -29,9 +29,9 @@ Take a look at the [DEMO](https://ic3top.github.io/Calendar-for-Ciklum/dist/)
 
 ## Features
 ###### List of features ready 
-* Display meetings planned
+* Create/Display new meeting
 * Filter meetings for a particular team member _(the list of team member is hardcoded)_
-* Toast messages (appear on errors and success)
+* Toast messages _(appear on errors and success)_
 * Add new meetings
 * Delete meetings
 * Meetings are saved in local storage
